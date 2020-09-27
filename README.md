@@ -10,4 +10,7 @@ int main()
  printf("%d is greater than %d",i,j);
  else 
  printf("%d is greater than %d",j,i);
+
+return 0;
+
 }
